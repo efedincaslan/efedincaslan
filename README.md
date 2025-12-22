@@ -6,18 +6,12 @@
 💼 Incoming Data Engineer Associate (LEAP) @ Fidelity Investments  
 📍 Charlotte, NC  
 
-I build **data-driven systems, analytics tools, and automation** that turn messy, real-world data into **clear, actionable insights**.  
-My interests sit at the intersection of **data engineering, analytics, finance, and applied technology**.
-
----
-
-## 🔍 What I Focus On
+## 🔍 What I Enjoy Working On
 - Designing **end-to-end data workflows** (ingestion → processing → output)
 - Building **Python-based analytics tools & APIs**
 - Working with **real, imperfect datasets**
 - Applying data to **business, financial, and operational decisions**
 
-I care just as much about **clarity, structure, and usability** as I do about writing correct code.
 
 ---
 
