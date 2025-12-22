@@ -15,21 +15,23 @@
 
 ---
 
-## 🚀 Featured Work
-Some highlights you’ll find in my pinned repositories below:
+## 🚀 Live Projects
 
-- **ChatDroid** – AI-powered chatbot platform for small businesses  
-  End-to-end system design, API integrations, deployment, and UX considerations.(Repo is private because of OPENAI API Key)
+- **ETF Builder** – Portfolio allocation and ETF scoring engine  
+  https://etfbuilder.netlify.app/
 
-- **ETF Portfolio Allocation Engine** – Rules-based investment allocation tool  
-  Momentum/volatility scoring, financial logic, and data-driven decision rules.
+- **ChatDroid** – AI chatbot platform with embeddable business bots  
+  https://chatdroid.netlify.app/  
+  https://chatdroid-bot.netlify.app/
 
-- **Data Mining & Analytics Projects** – Comparative analysis & visualization  
-  Pandas-based analysis with clear storytelling and visual outputs.
+- **CSVSniffer** – CSV diagnostics and analytics dashboard (FastAPI, Pandas, JS)  
+  https://csvsniffer.netlify.app/
 
-Each project is documented with **problem context, architecture, and results** — not just code.
+- **Spiri Defense Dashboard** – Interactive analytics dashboard  
+  https://spiri-defense-dash.lovable.app/
 
----
+- **Interactive Web CV** – Game-style portfolio built for exploration  
+  https://efewebcv.lovable.app/
 
 ## 🛠 Skills & Technologies
 
