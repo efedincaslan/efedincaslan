@@ -24,6 +24,10 @@
   https://chatdroid.netlify.app/  
   https://chatdroid-bot.netlify.app/
 
+  - **TicketDesk** – Full-stack incident ticketing system (FastAPI, PostgreSQL/Neon, Netlify, Render)  
+  https://incidentticket.netlify.app/
+
+
 - **CSVSniffer** – CSV diagnostics and analytics dashboard (FastAPI, Pandas, JS)  
   https://csvsniffer.netlify.app/
 
