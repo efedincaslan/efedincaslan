@@ -17,27 +17,33 @@
 
 ## 🚀 Live Projects
 
-- **ETF Builder** – Portfolio allocation and ETF scoring engine  
+- **ETF Builder** – Portfolio allocation and ETF scoring engine
+  
   https://etfbuilder.netlify.app/
 
-- **ChatDroid** – AI chatbot platform with embeddable business bots  
+- **ChatDroid** – AI chatbot platform with embeddable business bots
+  
   https://chatdroid.netlify.app/  
   https://chatdroid-bot.netlify.app/
 
-- **TicketDesk** – Full-stack incident ticketing system (FastAPI, PostgreSQL/Neon, Netlify, Render)  
+- **TicketDesk** – Full-stack incident ticketing system (FastAPI, PostgreSQL/Neon, Netlify, Render)
+  
   https://incidentticket.netlify.app/
 
 - **Efe’s Daily Word** – Daily Wordle-style game (FastAPI backend, Netlify frontend, Render API)
 
    https://efeswordoftheday.netlify.app/
 
-- **CSVSniffer** – CSV diagnostics and analytics dashboard (FastAPI, Pandas, JS)  
+- **CSVSniffer** – CSV diagnostics and analytics dashboard (FastAPI, Pandas, JS)
+  
   https://csvsniffer.netlify.app/
 
-- **Spiri Defense Dashboard** – Interactive analytics dashboard  
+- **Spiri Defense Dashboard** – Interactive analytics dashboard
+  
   https://spiri-defense-dash.lovable.app/
 
-- **Interactive Web CV** – Game-style portfolio built for exploration  
+- **Interactive Web CV** – Game-style portfolio built for exploration
+  
   https://efewebcv.lovable.app/
 
 ## 🛠 Skills & Technologies
