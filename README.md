@@ -28,7 +28,7 @@
   https://incidentticket.netlify.app/
 
 - **Efe’s Daily Word** – Daily Wordle-style game (FastAPI backend, Netlify frontend, Render API)
-https://efeswordoftheday.netlify.app/
+  https://efeswordoftheday.netlify.app/
 
 - **CSVSniffer** – CSV diagnostics and analytics dashboard (FastAPI, Pandas, JS)  
   https://csvsniffer.netlify.app/
