@@ -27,6 +27,9 @@
 - **TicketDesk** – Full-stack incident ticketing system (FastAPI, PostgreSQL/Neon, Netlify, Render)  
   https://incidentticket.netlify.app/
 
+- **Efe’s Daily Word** – Daily Wordle-style game (FastAPI backend, Netlify frontend, Render API)
+https://efeswordoftheday.netlify.app/
+
 - **CSVSniffer** – CSV diagnostics and analytics dashboard (FastAPI, Pandas, JS)  
   https://csvsniffer.netlify.app/
 
