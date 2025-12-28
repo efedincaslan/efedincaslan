@@ -15,6 +15,7 @@
 ---
 
 ## 🚀 Live Projects
+(for projects hosted on netlify wait a minute or 2 for backend API to connect to frontend once the session loads everything will be operational)
 
 - **ETF Builder** – Portfolio allocation and ETF scoring engine  
   https://etfbuilder.netlify.app/
