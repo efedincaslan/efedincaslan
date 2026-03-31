@@ -1,72 +1,71 @@
 ![Banner](./vtpamplin_cover.jpg)
+Hi, I’m Efe Dincaslan 👋
 
-# Hi, I’m Efe Dincaslan 👋
+🎓 Cybersecurity Management & Analytics
+Pamplin College of Business — Virginia Tech
 
-🎓 Cybersecurity Management & Analytics @ Virginia Tech (Pamplin College of Business)  
-💼 Incoming Data Engineer Associate (LEAP) @ Fidelity Investments  
-📍 Charlotte, NC  
+💼 Incoming Data Engineer Associate (LEAP)
+Fidelity Investments
 
-## 🔍 What I Enjoy Working On
-- Designing **end-to-end data workflows** (ingestion → processing → output)
-- Building **Python-based analytics tools & APIs**
-- Working with **real, imperfect datasets**
-- Applying data to **business, financial, and operational decisions**
+📍 Charlotte, North Carolina
 
----
+What I Enjoy Working On
+Designing end-to-end data workflows (ingestion → processing → output)
+Building Python APIs and analytics tools
+Working with real, imperfect datasets
+Applying data to business, financial, and operational decisions
+Deploying full-stack applications and data services
+Languages
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/> </p>
 
-## 🚀 Live Projects
-(for projects hosted on netlify wait a minute or 2 for backend API to connect to frontend once the session loads everything will be operational)
+Python
+JavaScript
+SQL
+VBA
 
-- **ETF Builder** – Portfolio allocation and ETF scoring engine  
-  https://etfbuilder.netlify.app/
+Backend & APIs
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/> </p>
 
-- **ChatDroid** – AI chatbot platform with embeddable business bots  
-  https://chatdroid.netlify.app/  
-  https://chatdroid-bot.netlify.app/
+FastAPI
+REST APIs
+OpenAI API Integration
+Data Processing Pipelines
 
-- **TicketDesk** – Full-stack incident ticketing system (FastAPI, PostgreSQL/Neon, Netlify, Render)  
-  https://incidentticket.netlify.app/
+Frontend
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/> </p>
 
-- **Efe’s Daily Word** – Daily Wordle-style game (FastAPI backend, Netlify frontend, Render API)  
-  https://efeswordoftheday.netlify.app/
+HTML
+CSS
+JavaScript
 
-- **CSVSniffer** – CSV diagnostics and analytics dashboard (FastAPI, Pandas, JS)  
-  https://csvsniffer.netlify.app/
+Data & Analytics
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/> </p>
 
-- **Spiri Defense Dashboard** – Interactive analytics dashboard  
-  https://spiri-defense-dash.lovable.app/
+Pandas
+NumPy
+Power BI
+Excel
 
-- **Interactive Web CV** – Game-style portfolio built for exploration  
-  https://efewebcv.lovable.app/
+Databases
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/> </p>
 
----
+PostgreSQL
+Neon
 
-## 🛠 Skills & Technologies
+Development Tools
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/> </p>
 
-### 🔧 Backend Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-867DB1?style=for-the-badge&logo=microsoft&logoColor=white)
+VS Code
+Git
+GitHub
 
----
+Infrastructure & Deployment
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="40"/> </p>
 
-### 🎨 Frontend Development
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+Netlify
+Render
 
----
+Operating Systems
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40"/> </p>
 
-### 🗄️ Database Languages
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-### 🖥️ Operating Systems
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
----
-
-### 📊 Analytics & Development Tools
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+Windows
