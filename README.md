@@ -49,11 +49,5 @@ Netlify • Render • Docker
 
 Profile Views
 <img src="https://komarev.com/ghpvc/?username=efedincaslan&color=blue&style=flat-square"/>
-VS Code	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
-Infrastructure & Deployment
-Tool	Logo
-Netlify	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="40"/>
-Render	<img src="https://cdn.simpleicons.org/render" height="40"/>
-Docker	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-Profile Views
-<p> <img src="https://komarev.com/ghpvc/?username=efedincaslan&color=blue&style=flat-square"/> </p>
+
+
