@@ -9,7 +9,7 @@ Pamplin College of Business — Virginia Tech
 Fidelity Investments
 
 📍 Charlotte, North Carolina
-GitHub Activity
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=efedincaslan&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efedincaslan&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=efedincaslan&theme=tokyonight&hide_border=true"/> </p>
 
 Programming Languages
